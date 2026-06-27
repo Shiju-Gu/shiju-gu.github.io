@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 744">
+  <rect width="1200" height="744" fill="#eeeae2"/>
+  <g fill="none" stroke="#151515" stroke-width="5">
+    <circle cx="305" cy="345" r="150"/><circle cx="600" cy="345" r="150"/><circle cx="895" cy="345" r="150"/>
+    <path d="M455 345h-35M750 345h-35"/>
+  </g>
+  <g fill="#d32635"><circle cx="305" cy="345" r="72"/><circle cx="600" cy="345" r="72"/><circle cx="895" cy="345" r="72"/></g>
+  <g fill="#fff"><circle cx="305" cy="345" r="20"/><circle cx="600" cy="345" r="20"/><circle cx="895" cy="345" r="20"/></g>
+  <text x="55" y="62" fill="#151515" font-family="Arial" font-size="20" letter-spacing="5">COLLABORATIVE SCIENCE</text>
+  <text x="1010" y="690" fill="#151515" font-family="Arial" font-size="17" letter-spacing="4">07 / 07</text>
+</svg>

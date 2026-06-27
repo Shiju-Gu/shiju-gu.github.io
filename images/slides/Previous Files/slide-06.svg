@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 744">
+  <rect width="1200" height="744" fill="#06222d"/>
+  <g fill="none" stroke="#63d8dc" opacity=".8">
+    <circle cx="610" cy="370" r="250" stroke-width="5"/><circle cx="610" cy="370" r="175" stroke-width="3" stroke-dasharray="9 12"/><circle cx="610" cy="370" r="88" stroke-width="4"/>
+  </g>
+  <g fill="#e42e3c"><circle cx="610" cy="120" r="24"/><circle cx="786" cy="194" r="19"/><circle cx="858" cy="370" r="25"/><circle cx="435" cy="545" r="20"/><circle cx="362" cy="370" r="16"/></g>
+  <path d="m610 120 176 74 72 176-423 175-73-175z" fill="none" stroke="#e42e3c" stroke-width="7"/>
+  <text x="55" y="62" fill="#d9f6f6" font-family="Arial" font-size="20" letter-spacing="5">ADVANCED MICROSCOPY</text>
+  <text x="1010" y="690" fill="#d9f6f6" font-family="Arial" font-size="17" letter-spacing="4">06 / 07</text>
+</svg>

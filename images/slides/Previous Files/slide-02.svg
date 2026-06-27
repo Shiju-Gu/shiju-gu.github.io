@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 744">
+  <rect width="1200" height="744" fill="#e5ecee"/>
+  <g fill="none" stroke="#102d3a" stroke-linecap="round">
+    <path d="M-40 575c195-90 260-285 450-250 210 39 225-205 465-160 115 21 165 95 370 75" stroke-width="34"/>
+    <path d="M150 745c20-145 125-190 165-325M690 292c40 135 160 165 180 360M930 177c-30 128 40 220 165 270" stroke-width="20"/>
+  </g>
+  <path d="M-30 615c200-80 275-250 455-218 205 37 240-180 450-140 110 21 160 80 355 72" fill="none" stroke="#cc2634" stroke-width="10"/>
+  <g fill="#cc2634"><circle cx="315" cy="420" r="20"/><circle cx="690" cy="292" r="20"/><circle cx="930" cy="177" r="20"/><circle cx="870" cy="652" r="18"/></g>
+  <text x="55" y="62" fill="#102d3a" font-family="Arial" font-size="20" letter-spacing="5">GLYMPHATIC PATHWAYS</text>
+  <text x="1010" y="690" fill="#102d3a" font-family="Arial" font-size="17" letter-spacing="4">02 / 07</text>
+</svg>
