@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://shiju-gu.github.io/sitemap.xml
