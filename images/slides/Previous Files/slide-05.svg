@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 744">
+  <rect width="1200" height="744" fill="#dfe5e1"/>
+  <path d="M90 372h1020" stroke="#10272f" stroke-width="18"/>
+  <g fill="none" stroke="#cf2634" stroke-width="12">
+    <ellipse cx="170" cy="372" rx="45" ry="115"/><ellipse cx="300" cy="372" rx="45" ry="115"/><ellipse cx="430" cy="372" rx="45" ry="115"/><ellipse cx="560" cy="372" rx="45" ry="115"/><ellipse cx="690" cy="372" rx="45" ry="115"/><ellipse cx="820" cy="372" rx="45" ry="115"/><ellipse cx="950" cy="372" rx="45" ry="115"/>
+  </g>
+  <g fill="#10272f"><circle cx="235" cy="372" r="12"/><circle cx="365" cy="372" r="12"/><circle cx="495" cy="372" r="12"/><circle cx="625" cy="372" r="12"/><circle cx="755" cy="372" r="12"/><circle cx="885" cy="372" r="12"/></g>
+  <text x="55" y="62" fill="#10272f" font-family="Arial" font-size="20" letter-spacing="5">AXON MEMBRANE SKELETON</text>
+  <text x="1010" y="690" fill="#10272f" font-family="Arial" font-size="17" letter-spacing="4">05 / 07</text>
+</svg>
